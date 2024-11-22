@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RestAssuredSamples">
+  <test thread-count="5" name="RestAssuredSamples">
+    <classes>
+      <class name="com.api.sample.GetRequest"/>
+    </classes>
+  </test> <!-- RestAssuredSamples -->
+</suite> <!-- RestAssuredSamples -->
